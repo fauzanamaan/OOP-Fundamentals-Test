@@ -31,7 +31,7 @@ We recommend you have a repl.it account before opening the link to ease your tra
 ## Downloading and running our code
 1. Ensure you download python 3 before downloading any of the code
 2. Download the code or possibly clone the file/repo
-3. run the file using the terminal by stating the following
+3. Run the file using the terminal by stating the following
    ```
     python3 filename.py
    ```
